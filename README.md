@@ -38,6 +38,8 @@ To Get information about Your Target & Exploit
 
 Usage : 
 
+roo@root$: pip install -r requirements.txt
+
 Attached File : http://www.mediafire.com/download/x3vqzxcmwzg7xwv/dic.zip
 
 Unzip Add this file to Python Tool Directory 
