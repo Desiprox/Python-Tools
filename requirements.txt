@@ -1,0 +1,10 @@
+tld
+ngram
+requests
+pycrypto
+codecs
+urllib
+threading
+pycipher
+
+#requirements
